@@ -20,6 +20,7 @@ Balanced Binary Search Tree Implementation: https://github.com/Nazik3113/HSA1020
 | 1 000    |        138        |
 
 log(1000) / log(10000) = 0.75
+
 log(138) / log(1925) = 0.65 *похибка вийшла
 
 Prerequisites:
